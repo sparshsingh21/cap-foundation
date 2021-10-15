@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559670892373",
+    "project_id": "cap-foundation",
+    "storage_bucket": "cap-foundation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559670892373:android:d71f9c206bad60377e41dc",
+        "android_client_info": {
+          "package_name": "com.example.cap_foundation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559670892373-sopc8vc2uealnpojps8dcetr8reru2g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnYyVYbpG4_sUfW9XvIvveAEHaleoMcuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559670892373-sopc8vc2uealnpojps8dcetr8reru2g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
